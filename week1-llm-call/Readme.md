@@ -12,6 +12,8 @@ Sent a question and displayed the response.
 
 **Commands used:**
 
-**cd week1-llm-call**
-**pip install -r requirements.txt**
+cd week1-llm-call
+
+pip install -r requirements.txt
+
 python main.py
